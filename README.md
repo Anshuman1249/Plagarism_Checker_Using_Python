@@ -19,11 +19,11 @@ Similarity Measurement: The tool calculates the similarity scores between the do
 Threshold Evaluation: The calculated similarity scores are compared against the user-defined thresholds to determine if plagiarism is present.
 
 Clone the repository:
-bash
+'''bash
 Copy code
 git clone https://github.com/your-username/plagiarism-checker.git
 Install the required dependencies:
-
+'''
 Copy code
 pip install -r requirements.txt
 Run the plagiarism checker:
