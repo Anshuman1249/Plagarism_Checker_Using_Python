@@ -26,9 +26,8 @@ The Plagiarism Checker is a Python-based tool designed to detect plagiarism in t
 ## Clone the repository:
 https://github.com/Anshuman1249/Plagarism_Checker_Using_Python.git
 
-## Run the plagiarism checker by following command:
-  
-  python Plagarism_Checker_Using_Python.py
+## Run the plagiarism checker:
+  python3 Plagarism_Checker_Using_Python.py
 
 ## Contributing
 
