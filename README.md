@@ -24,10 +24,10 @@ The Plagiarism Checker is a Python-based tool designed to detect plagiarism in t
   4.Threshold Evaluation: The calculated similarity scores are compared against the user-defined thresholds to determine if plagiarism is present.
 
 ## Clone the repository:
-git clone 
 https://github.com/Anshuman1249/Plagarism_Checker_Using_Python.git
 
-Run the plagiarism checker by following command:
+## Run the plagiarism checker by following command:
+  
   python Plagarism_Checker_Using_Python.py
 
 ## Contributing
