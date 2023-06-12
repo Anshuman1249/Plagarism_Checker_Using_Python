@@ -22,7 +22,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/plagiarism-checker.git
+git clone https://github.com/Anshuman1249
+/Plagarism_Checker_Using_Python.git
 Install the required dependencies:
 
 Copy code
