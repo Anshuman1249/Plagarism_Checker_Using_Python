@@ -18,8 +18,7 @@ Similarity Measurement: The tool calculates the similarity scores between the do
 
 Threshold Evaluation: The calculated similarity scores are compared against the user-defined thresholds to determine if plagiarism is present.
 
-# Clone the repository:
-
+Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-username/plagiarism-checker.git
@@ -34,19 +33,10 @@ Copy code
 python plagiarism_checker.py --files document1.txt document2.txt
 Note: Replace document1.txt and document2.txt with the path or name of your own files.
 
-Customize thresholds (optional):
-
-If you want to customize the similarity thresholds, you can modify the values in the plagiarism_checker.py file.
-
-View the report:
-
-After running the tool, a detailed report will be generated and saved as report.txt in the same directory.
 
 Contributing
 Contributions to the Plagiarism Checker are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request on the GitHub repository.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 
