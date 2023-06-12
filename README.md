@@ -20,8 +20,7 @@ Multiple File Formats: The tool supports various file formats, including plain t
 
 ## Clone the repository:
 Copy code
-git clone https://github.com/Anshuman1249
-/Plagarism_Checker_Using_Python.git
+git clone https://github.com/Anshuman1249/Plagarism_Checker_Using_Python.git
 
 Run the plagiarism checker:
 python Plagarism_Checker_Using_Python.py
